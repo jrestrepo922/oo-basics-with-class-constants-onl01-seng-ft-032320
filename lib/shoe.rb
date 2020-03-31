@@ -13,7 +13,7 @@ class Shoe
   def initialize(brand)
     @brand = brand
     
-    if(brand.include?(brand))
+    if(.uniq)
     BRANDS<< brand
   end
 
